@@ -1,4 +1,4 @@
-# 💫 About Me:
+<b># 💫 About Me:
 🛠️ I’m currently working on:
 → Building MERN stack projects and improving DSA skills with C++.
 
@@ -15,7 +15,7 @@
 → How I balance college life with self-learning and how I got started in web dev + data science.
 
 ⚡ Fun fact:
-→ I love turning real-life problems into code and have a habit of naming variables like they're my teammates 😄
+→ I love turning real-life problems into code and have a habit of naming variables like they're my teammates 😄</b>
 
 
 
